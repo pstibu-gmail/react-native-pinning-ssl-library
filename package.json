@@ -1,0 +1,40 @@
+{
+  "name": "react-native-pinning-ssl-library",
+  "title": "React Native Pinning Ssl Library",
+  "version": "1.0.0",
+  "description": "A react-native library for pinning SSL using SHA-1 public key",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "android",
+    "index.js",
+    "ios",
+    "react-native-pinning-ssl-library.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pstibu-gmail/react-native-pinning-ssl-library.git",
+    "baseUrl": "https://github.com/pstibu-gmail/react-native-pinning-ssl-library"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Tibu Padmakumar",
+    "email": "pstibu@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}
