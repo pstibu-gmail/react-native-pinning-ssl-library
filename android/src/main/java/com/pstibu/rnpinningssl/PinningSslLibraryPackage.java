@@ -3,6 +3,7 @@ package com.pstibu.rnpinningssl;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+import java.util.ArrayList;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;

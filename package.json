@@ -1,7 +1,7 @@
 {
   "name": "react-native-pinning-ssl-library",
   "title": "React Native Pinning Ssl Library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react-native library for pinning SSL using SHA-1 public key",
   "main": "index.js",
   "files": [
